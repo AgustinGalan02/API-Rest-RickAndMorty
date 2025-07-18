@@ -30,7 +30,7 @@ Web interactiva que consume la API de Rick and Morty para mostrar información d
 [Rick and Morty API](https://rickandmortyapi.com/api/)
 ## Authors
 
-- [@tu_usuario](https://www.github.com/AgustinGalan02)
+- [@AgustinGalan02](https://www.github.com/AgustinGalan02)
 
 ## Badges
 
