@@ -28,11 +28,9 @@ Web interactiva que consume la API de Rick and Morty para mostrar información d
 ## 🌐 API Utilizada
 
 [Rick and Morty API](https://rickandmortyapi.com/api/)
-## Authors
+## Autor
 
 - [@AgustinGalan02](https://www.github.com/AgustinGalan02)
-
-## Badges
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
