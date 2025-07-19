@@ -1,5 +1,3 @@
-![Logo](miniatura.png)
-
 # 🛸 Rick and Morty - API REST
 
 Web interactiva que consume la API de Rick and Morty para mostrar información detallada de los personajes de la serie.
@@ -32,7 +30,11 @@ Web interactiva que consume la API de Rick and Morty para mostrar información d
 
 - [@AgustinGalan02](https://www.github.com/AgustinGalan02)
 
-## Badges
+## Screenshots
+
+![App Screenshot](miniatura.png)
+
+## 
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
